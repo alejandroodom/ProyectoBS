@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e4aae21-2345-4371-b4b8-0262dac9bc7f" name="Changes" comment="d">
-      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/demo/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="6e4aae21-2345-4371-b4b8-0262dac9bc7f" name="Changes" comment="¡" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700503840071</updated>
-      <workItem from="1700503841668" duration="956000" />
+      <workItem from="1700503841668" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1700504229757</created>
@@ -63,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700504229757</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="¡">
+      <created>1700504834383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700504834383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="d" />
-    <option name="LAST_COMMIT_MESSAGE" value="d" />
+    <MESSAGE value="¡" />
+    <option name="LAST_COMMIT_MESSAGE" value="¡" />
   </component>
 </project>
